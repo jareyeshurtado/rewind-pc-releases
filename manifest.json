@@ -4,8 +4,5 @@
   "sha256": "a16fc3cc011fa5f12a3efbbd1aaa63c2275c03d94aec327d3e08240bda59038e",
   "size": 34527233,
   "notes": "Nothing really, just testing to see if the update works with a new version number",
-  "publishedAt": "2026-09-17T22:03:31",
-  "only": [
-    "SuperPadel"
-  ]
+  "publishedAt": "2026-09-17T22:05:31"
 }

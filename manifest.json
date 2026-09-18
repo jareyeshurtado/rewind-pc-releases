@@ -1,8 +1,11 @@
 {
-  "version": "2.0.0",
-  "url": "https://raw.githubusercontent.com/jareyeshurtado/rewind-pc-releases/main/releases/RewindSetup-2.0.0.exe",
-  "sha256": "19d0f3f4dc87717897e9b1be6904caece497d2b17f31913fc56954629d161bd4",
-  "size": 34525580,
-  "notes": "Primera versi\u00f3n 2.0",
-  "publishedAt": "2026-09-17T21:07:08"
+  "version": "2.0.1",
+  "url": "https://raw.githubusercontent.com/jareyeshurtado/rewind-pc-releases/main/releases/RewindSetup-2.0.1.exe",
+  "sha256": "a16fc3cc011fa5f12a3efbbd1aaa63c2275c03d94aec327d3e08240bda59038e",
+  "size": 34527233,
+  "notes": "Nothing really, just testing to see if the update works with a new version number",
+  "publishedAt": "2026-09-17T22:03:31",
+  "only": [
+    "SuperPadel"
+  ]
 }

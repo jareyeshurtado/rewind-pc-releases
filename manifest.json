@@ -1,8 +1,11 @@
 {
-  "version": "2.0.1",
-  "url": "https://raw.githubusercontent.com/jareyeshurtado/rewind-pc-releases/main/releases/RewindSetup-2.0.1.exe",
-  "sha256": "a16fc3cc011fa5f12a3efbbd1aaa63c2275c03d94aec327d3e08240bda59038e",
-  "size": 34527233,
-  "notes": "Nothing really, just testing to see if the update works with a new version number",
-  "publishedAt": "2026-09-17T22:05:31"
+  "version": "2.0.2",
+  "url": "https://raw.githubusercontent.com/jareyeshurtado/rewind-pc-releases/main/releases/RewindSetup-2.0.2.exe",
+  "sha256": "d9f231b3d2affed28d88d04d62f8c04364d605153407afac846e1e31f15b9e48",
+  "size": 34530479,
+  "notes": "Added Pin to protect the configuration of Rewind",
+  "publishedAt": "2026-09-21T17:23:15",
+  "only": [
+    "SuperPadel"
+  ]
 }

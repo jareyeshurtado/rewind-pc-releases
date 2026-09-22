@@ -4,8 +4,5 @@
   "sha256": "60e10ec8d25ea0090e21789e12ed21a4b13ee570fcc5ced095360f2b217a3577",
   "size": 34525139,
   "notes": "Changed the page we send the videos to",
-  "publishedAt": "2026-09-22T17:21:57",
-  "only": [
-    "SuperPadel"
-  ]
+  "publishedAt": "2026-09-22T17:25:13"
 }

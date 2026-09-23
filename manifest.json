@@ -4,8 +4,5 @@
   "sha256": "1b82aee1ba7960cc95b00bdd9f6cef13710ac72cad9f3ca5c214c7641785563d",
   "size": 34528014,
   "notes": "Fixing frames lost",
-  "publishedAt": "2026-09-23T10:22:14",
-  "only": [
-    "SuperPadel"
-  ]
+  "publishedAt": "2026-09-23T10:22:51"
 }

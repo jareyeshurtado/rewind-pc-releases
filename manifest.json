@@ -1,8 +1,11 @@
 {
-  "version": "2.0.6",
-  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.6.exe",
-  "sha256": "514d9e21a8cad63633b5fcb83b8794c31a02e171bbea7a4b15fec5461b4fde65",
-  "size": 34531639,
-  "notes": "Moved completely to rewindsports",
-  "publishedAt": "2026-09-23T01:26:37"
+  "version": "2.0.7",
+  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.7.exe",
+  "sha256": "1b82aee1ba7960cc95b00bdd9f6cef13710ac72cad9f3ca5c214c7641785563d",
+  "size": 34528014,
+  "notes": "Fixing frames lost",
+  "publishedAt": "2026-09-23T10:22:14",
+  "only": [
+    "SuperPadel"
+  ]
 }

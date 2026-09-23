@@ -1,12 +1,21 @@
+Rewind - distribution terms
 Copyright (c) 2026 Rewind Sports. All rights reserved.
 
-This repository distributes installers of the Rewind club software, for clubs that have an
-agreement with Rewind Sports. The software is proprietary and is licensed, not sold.
+This repository holds the installers and firmware that Rewind equipment downloads to keep
+itself up to date. They are published here for that purpose and for no other. The software
+is licensed, not sold, and no source code is published or licensed here.
 
-No permission is granted to use, copy, modify, distribute, sublicense or sell the software or any
-part of it, or to decompile or reverse engineer it, except as expressly allowed in a written
-agreement with Rewind Sports or where applicable law does not allow this restriction.
+You may download and install these files on Rewind equipment operated with the consent of
+Rewind Sports.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXCEPT AS STATED IN THAT AGREEMENT.
+Without written permission from Rewind Sports you may not:
+  - redistribute, republish, sell or bundle these files;
+  - modify them or create derived works from them;
+  - decompile, disassemble or reverse engineer them, except where the law expressly
+    allows it despite this restriction;
+  - use them to run a service that is not provided by Rewind Sports.
 
-Contact: https://rewindsports.mx
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXCEPT AS STATED IN A
+WRITTEN AGREEMENT WITH REWIND SPORTS.
+
+Contact: https://rewindpadel.com.mx

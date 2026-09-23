@@ -1,8 +1,11 @@
 {
-  "version": "2.0.4",
-  "url": "https://raw.githubusercontent.com/jareyeshurtado/rewind-pc-releases/main/releases/RewindSetup-2.0.4.exe",
-  "sha256": "60e10ec8d25ea0090e21789e12ed21a4b13ee570fcc5ced095360f2b217a3577",
-  "size": 34525139,
-  "notes": "Changed the page we send the videos to",
-  "publishedAt": "2026-09-22T17:25:13"
+  "version": "2.0.5",
+  "url": "https://raw.githubusercontent.com/jareyeshurtado/rewind-pc-releases/main/releases/RewindSetup-2.0.5.exe",
+  "sha256": "b60d7c514fe5765236a84f3468aa02e59a864a3fd245485cb61ce2ec8004e5ac",
+  "size": 34530069,
+  "notes": "Changed everything to the Organization RewindSports in github",
+  "publishedAt": "2026-09-23T01:05:53",
+  "only": [
+    "SuperPadel"
+  ]
 }
